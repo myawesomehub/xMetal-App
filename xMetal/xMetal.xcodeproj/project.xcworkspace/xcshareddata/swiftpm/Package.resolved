@@ -1,0 +1,15 @@
+{
+  "originHash" : "d8547d8dc98d6d5e20af7e6777bc3b125fbd8eb74ef977e2233d53eb0be8fe75",
+  "pins" : [
+    {
+      "identity" : "xmetalshader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/myawesomehub/xMetalShader.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a2fe69b2145744fef902f2c2945538e3f7dac96f"
+      }
+    }
+  ],
+  "version" : 3
+}
